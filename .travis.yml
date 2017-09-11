@@ -1,7 +1,7 @@
-nguage: java
+language: java
 jdk:
   - oraclejdk8
-  
+
 branches:
   only:
   - gh-pages
